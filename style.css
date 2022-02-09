@@ -1,4 +1,9 @@
-h1{
+h1 {
   color: AliceBlue;
   text-aling: center;
+  background-color: AntiqueWhite;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  margin: 20px;
 }
