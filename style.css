@@ -1,6 +1,5 @@
 h1, h2 {
   color: Black;
-  text-align: center;
   font-family: Verdana, Arial, sans-serif;
   font-weight: bold;
 }
@@ -18,10 +17,6 @@ td {
 
 #foo {
   background-color: Azure;
-}
-
-.bass {
-  backgroun-color: Lavender;
 }
 
 ul li {
