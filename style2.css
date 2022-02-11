@@ -1,1 +1,15 @@
+a[href="wrong_answer.html"] {
+  color: red;
+}
 
+div {
+    font-size: 18px;
+
+    ul, p {
+       padding: 20px;
+       margin: 20px;
+    }
+  
+    ul {
+      color: blue;
+}
