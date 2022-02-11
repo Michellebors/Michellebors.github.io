@@ -2,13 +2,13 @@ h1, h2, h3 {
   color: Black;
   font-family: Verdana, Arial, sans-serif;
   font-weight: bold;
-  text-align: center;
 }
 
 table {
   border: 2px solid black;
   border-collapse: collapse;
   font-size: 16px;
+  text-align: center;
 }
 
 td {
