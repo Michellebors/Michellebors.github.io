@@ -11,7 +11,11 @@ a[href="wrong_answer.html"] {
 
 div {
     font-size: 18px;
-
+    
+    p {
+      @extend %lay-out;
+      color: green;;
+  }
     ul {
       @extend %lay-out;
       color: blue;
