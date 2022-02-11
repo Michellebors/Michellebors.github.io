@@ -1,7 +1,8 @@
-h1, h2 {
+h1, h2, h3 {
   color: Black;
   font-family: Verdana, Arial, sans-serif;
   font-weight: bold;
+  text-align: center;
 }
 
 table {
