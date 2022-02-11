@@ -27,3 +27,7 @@ td {
 ul li {
   color: grey;
 }
+
+a[href="wrong_answer1.html"] {
+  color: red;
+}
