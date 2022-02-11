@@ -10,6 +10,10 @@ div {
        margin: 20px;
     }
   
+    p {
+      color: green;
+  }
     ul {
       color: blue;
+  }    
 }
